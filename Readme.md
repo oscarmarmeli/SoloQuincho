@@ -1,4 +1,4 @@
-# SOMOSQUINCHO
+# SOLOQUINCHO
 
 # Descripción del sitio
 Bienvenido a nuestro e-commerce - Venta de accesorios para Quincho

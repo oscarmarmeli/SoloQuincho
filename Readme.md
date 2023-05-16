@@ -1,5 +1,4 @@
-# SOMOS QUINCHO
-# Bienvenido a nuestro e-commerce venta de insumos informáticos!
+# SOMOSQUINCHO
 
 # Descripción del sitio
 Bienvenido a nuestro e-commerce - Venta de accesorios para Quincho

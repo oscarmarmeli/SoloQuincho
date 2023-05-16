@@ -14,8 +14,7 @@ Artefactos de iluminación, blanquería artesanal.
 CRISTALERÍA: Vasos, copas, jarras.
 e-comerce enfocado a la venta de insumos informáticos, donde los usuarios podrán realizar pedidos, agregarlos al carrito de compras y pagar a través de Mercadopago.
 
-# Tipografía principal
-Darumadrop One
+# Paleta de colores
 https://coolors.co/96bbbb-618985-414535-f2e3bc-c19875
 
 En breve estaremos agregando más contenido al sitio.
@@ -23,4 +22,8 @@ Muchas gracias!
 
 ![SomosQuincho](imagenes/Portada-para-post-TERRAZA-Y-CONSULTORES-2.webp)
 
+# Link de Figma
 [Link Diseño Figma "SoloQuincho"](https://www.figma.com/file/kUZNGqNlKHxvI3xaJBf5ST/Dise%C3%B1o-e-commerce-OscarMarmeli?type%3Ddesign%26node-id%3D0-1%26t%3D1KHIjD4YdHNJeAPo-0)
+
+# Adjunto página de inicio "Index.html" (en desarrollo).
+# Adjunto Carpeta de Imágenes y Carpeta de Figma con los diseños en PNG.

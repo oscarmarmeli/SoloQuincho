@@ -23,3 +23,5 @@ En breve estaremos agregando más contenido al sitio.
 Muchas gracias!
 
 ![SomosQuincho](imagenes/Portada-para-post-TERRAZA-Y-CONSULTORES-2.webp)
+
+[Link Diseño Figma "SoloQuincho"](https://www.figma.com/file/kUZNGqNlKHxvI3xaJBf5ST/Dise%C3%B1o-e-commerce-OscarMarmeli?type%3Ddesign%26node-id%3D0-1%26t%3D1KHIjD4YdHNJeAPo-0)

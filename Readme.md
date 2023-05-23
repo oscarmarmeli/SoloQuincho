@@ -12,7 +12,7 @@ La primera plataforma que nuclea todos los productos regionales necesarios para 
 # ADORNOS
 Artefactos de iluminación, blanquería artesanal.
 CRISTALERÍA: Vasos, copas, jarras.
-e-comerce enfocado a la venta de insumos informáticos, donde los usuarios podrán realizar pedidos, agregarlos al carrito de compras y pagar a través de Mercadopago.
+e-comerce enfocado a la venta de accesorios para quinchos, donde los usuarios podrán realizar pedidos, agregarlos al carrito de compras y pagar a través de Mercadopago.
 
 # Paleta de colores
 https://coolors.co/96bbbb-618985-414535-f2e3bc-c19875
